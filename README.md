@@ -14,11 +14,7 @@ Needs ***.env.local*** file, with **API_KEY** from https://www.themoviedb.org (c
 API_KEY=<my_api_key_from_the_movie_db>
 ```
 
-
-
-
-
-
+![screen](C:\ENV\workspaces\PERSO\fake-hulu\screen.png)
 
 
 
